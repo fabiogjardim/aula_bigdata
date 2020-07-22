@@ -1,0 +1,62 @@
+Big Data: o que é, para que serve e como aplicar?
+Se você busca conhecer as tendências da tecnologia, já ouviu falar em Big Data. Mas é bem verdade que poucas pessoas entendem o que esse conceito realmente significa.
+Mais que um termo que se refere a dados estruturados e não estruturados, a ideia é saber como utilizá-los para obter insights relevantes e tomar decisões acertadas. É a efetivação da gestão chamada data driven, embasada no cruzamento de informações originários de várias fontes.
+O resultado? Uma empresa mais competitiva, que analisa tendências de mercado, prevê comportamentos de compra e utiliza o poder das informações a seu favor.
+Ficou curioso para saber mais? Então, aproveite, porque neste artigo vamos explicar exatamente o que é, para que serve e como aplicar essa nova ferramenta de coleta de dados. Acompanhe!
+O que é Big Data?
+Esse termo se refere aos dados estruturados e não estruturados que são gerados diariamente — na verdade, a cada segundo — pelas empresas. É uma ferramenta inserida no contexto da Era da Informação que permite aos negócios maior capacidade de tomar decisões acertadas e definir o melhor caminho a seguir.
+Segundo um estudo da BSA | The Software Alliance, diariamente são gerados 2,5 quintilhões de bytes. Até 2025, a expectativa da Seagate, empresa do setor tecnológico, é que o volume chegue a 163 zettabytes, o que representa 10 vezes mais dados que 2016.
+Percebe como esse assunto é importante para a sua empresa? Aliás, ele já foi retratado em diversos filmes. Star Wars já trazia rapidamente esse contexto ainda em 1977 devido aos robôs inteligentes, como o C-3PO e o R2-D2.
+Porém, Minority Report, em 2002, trouxe essa questão de maneira mais vívida. Com os dados obtidos, os personagens do filme fazem análises preditivas que indicam onde ocorrerão os próximos assassinatos e quem serão as vítimas. A partir disso, há uma corrida para evitar que a previsão realmente aconteça.
+É claro que esse contexto não é tão drástico na sua empresa. Ainda assim, conhecer a ficção é uma boa maneira de entender o que o Big Data significa de forma palpável. Desse modo, você pode verificar qual é a tendência de comportamento de consumo para os meses seguintes.
+Ao mesmo tempo, é capaz de avaliar mudanças proporcionadas pela transformação digital, que podem trazer benefícios para seu negócio. A consequência é a atuação mais precisa, que foca o bom uso do grande volume de dados gerados.
+Os 3Vs do Big Data
+A prática de coletar e armazenar informações é antiga e, mais recentemente, foi estruturado sob o viés abrangido por esse termo. Conceituado a partir dos anos 2000, essa abordagem está embasada em 3Vs:
+volume: refere-se à grande quantidade de dados capturados a partir de fontes diversas, como redes sociais, informações de sensores e transmitidas máquina a máquina, transações financeiras etc. A geração pode ocorrer dentro ou fora da empresa;
+velocidade: é a rapidez com que os dados são transmitidos e tratados. Apesar da maior complexidade e variedade, o processamento precisa ser ágil para que as informações sejam utilizadas em tempo real e subsidiem as tomadas de decisão. Algumas tecnologias que impulsionam esse aspecto são etiquetas RFID, medições e sensores inteligentes;
+variedade: está relacionada aos formatos de geração dos dados, que podem ser estruturados (como os numéricos, que estão bancos tradicionais) ou não estruturados (caso de documentos de vídeo, texto, áudio, operações financeiras, cotações da bolsa e mais). Quanto maior a complexidade, mais alta é a chance de acessar informações úteis, que levarão a insights relevantes.
+Em alguns tipos de negócio também há o acréscimo de outras quatro dimensões: variabilidade, complexidade, veracidade e valor.
+A primeira consiste em picos periódicos de determinados assuntos relacionados à sua empresa. Por exemplo: as tendências nas redes sociais mudam com certa frequência. Uma situação particular pode mudar o contexto e criar uma oportunidade interessante.
+É o caso das eleições, que permitem criar eventos específicos para a marca, uma enquete ou até mesmo um assunto para o blog (como um conteúdo sobre como esse contexto político influencia os investimentos financeiros).
+A complexidade se refere à dificuldade de relacionar, combinar e tratar os dados de múltiplas fontes para que sejam transformados em informações relevantes. É preciso pensar em como conectar hierarquias e vínculos para ter um controle sobre cada item.
+Já a veracidade está ligada ao quanto a informação é verdadeira, como o nome indica. Como são gerados muitos dados e são provenientes de várias fontes, é preciso ter filtros para garantir que eles sejam corretos e úteis.
+Por fim, o valor indica o esforço empregado para que a informação agregue utilidade à empresa. Para isso, é necessário compreender o contexto e a necessidade de gerar os dados adequados para as pessoas certas.
+Ao levar em conta todos esses Vs — e também a complexidade —, seu negócio tem acesso a dados importantes, que garantem tomadas de decisão efetivas e que indicam o rumo a ser tomado.
+Qual o potencial do Big Data?
+O crescimento exponencial do volume de informações gerado é visível. Ignorar os dados disponíveis é um erro que pode levar o negócio ao fracasso. Afinal, é por meio deles que você pode prever tendências e mudanças no mercado de atuação.
+Por isso, mais que ter acesso a uma grande quantidade de dados, é necessário tratá-los de maneira correta. O ideal é fazer uma análise aprofundada para encontrar respostas certas, que visem a quatro principais objetivos:
+redução de custos;
+economia de tempo;
+desenvolvimento de produtos e otimização de ofertas;
+otimização das tomadas de decisão.
+A ideia é que essa ferramenta ajude a:
+identificar falhas, defeitos e problemas praticamente em tempo real;
+criar promoções a partir dos hábitos de compra do cliente;
+detectar comportamentos fraudulentos antes de prejudicarem o negócio;
+recalcular carteiras de risco.
+Com essa explicação, fica claro que o propósito do Big Data é fazer a análise de dados — e é aí que está a inteligência do processo. Sem uma avaliação meticulosa e precisa, é impossível saber qual é o melhor caminho.
+Mas o que efetivamente significa a análise de dados? A ideia é encontrar padrões comportamentais para monitorá-los e, sempre que houver alguma alteração, tomar a decisão certa. É o caso de sua empresa vender o produto X, mas identificar que o número de comercializações está em queda porque o item Y é similar, porém mais resistente. Nesse caso, antes de perder fatia de mercado, você pode substituir a mercadoria para evitar outros prejuízos.
+Como aplicar o Big Data na sua empresa?
+O trabalho que permite cruzar os dados e, a partir disso, interpretá-los é o Big Data Analytics. Essa ferramenta permite extraí-los, organizá-los, tratá-los e entendê-los para, então, transformá-los em informações úteis para o negócio.
+Vários são os exemplos que demonstram o uso dos dados no seu negócio. Primeiramente, você precisa entender que há três tipos:
+social data: são aqueles derivados das pessoas que ajudam a identificar comportamentos para atuar de forma direcionada. Por exemplo: pesquisas feitas no Google e comentários nas redes sociais;
+enterprise data: são gerados por organizações, como nos setores de RH, financeiro, produção etc. Contribuem para mensurar a produtividade e identificar gargalos;
+personal data ou data of things: são originários de dispositivos conectados à internet, como TVs, carros e geladeiras. Tem como base a Internet das Coisas (IoT, ou Internet of Things). Um exemplo seria usar as informações de um aplicativo de trânsito para alimentar painéis eletrônicos na cidade a fim de informar sobre o tráfego.
+Diante desse contexto, a aplicação do Big Data depende da realidade da sua empresa. É fundamental contar com a ajuda da tecnologia para coletar e filtrar os dados, com o propósito de utilizá-los conforme as suas necessidades.
+Por exemplo: se você tem um site ou aplicativo de saúde e bem-estar, pode cruzar os dados dos usuários — como localização, idade, peso, altura, sexo etc. —para verificar qual doença tem ocorrência mais provável em determinada região. Assim, pode traçar estratégias específicas, caso dos artigos sobre esse assunto para o blog.
+Já uma empresa fabricante de aviões tem a possibilidade usar sensores para identificar quando é necessário que a aeronave faça alguma parada para reabastecimento ou se é possível chegar ao destino sem interromper a viagem.
+Veja, a seguir, outros exemplos de uso do Big Data em diferentes setores, com cases de sucesso.
+Marketing
+Essa área depende da identificação do comportamento do consumidor para criar ações específicas e encontrar o cliente certo para cada produto. A análise depende de diferentes fatores, como sazonalidade, canal de vendas, abordagens de marketing (características, preço etc.).
+Em uma confecção, você pode usar o Big Data para descobrir se há uma preferência nacional ou regional por suéteres de lã ou blusas de algodão. Da mesma forma, a visualização desses dados podem indicar oportunidades.
+Um exemplo claro dessa ação foi o case do McDonalds. Diariamente, a empresa coleta e combina os dados de seus maiores restaurantes no mundo para padronizá-los e entender a reação dos públicos. Com isso, já foram criados sanduíches com base nas análises de sentimento feitos em redes sociais, lançadas promoções em tempo real e modificada a logística do drive thru a partir da reação dos consumidores de cada país.
+Controle de qualidade
+As variáveis abrangidas nesse critério são muitas, como defeitos por unidade, rendimentos de primeira passagem, taxas de preenchimento e outras. Elas podem até incluir os fornecedores, a capacitação dos colaboradores e as condições ambientais no momento da produção.
+Todos esses itens podem ser analisados com o Big Data. Os dados de produção, inclusive, são passíveis de integração a outros, o que facilita a identificação e a eliminação de gargalos e fatores de lentidão.
+Um exemplo de controle da qualidade pode ser verificar com a FarmLogs. A empresa de gerenciamento de produções agrícolas faz a mineração de dados para prever cenários de colheitas futuras, estado da vegetação e condições de plantio. Assim, os fazendeiros conseguem aumentar significativamente sua produtividade.
+Marketing de Conteudo e Dados
+Financeiro
+Esse setor está relacionado a todos os outros da empresa e a visualização de seus números é fundamental para verificar a saúde do negócio. É o caso do setor de vendas, que geralmente desconhece o custo de produção para cada um dos itens. Ou do marketing, que nem sempre sabe qual mercadoria tem menor margem de lucro para empregar esforços naquelas que trazem mais lucratividade.
+Por meio de algoritmos complexos, o banco dos Estados Unidos JP Morgan, por exemplo, prevê tendências para indicar aos seus investidores qual é o melhor momento para comprar e vender ações. A mesma lógica pode ser aplicada internamente para a empresa, com a análise de dados de outros setores e comparação com os índices financeiros.
+Como você pôde perceber, o Big Data é uma ferramenta bastante útil para o seu negócio. Ele faz parte de um processo complexo de transformação digital, que ajuda a sua empresa a conquistar competitividade e maior satisfação dos clientes.
+Então, agora que você entende melhor sobre análise, coleta e armazenamento de dados, que tal entender melhor a relação entre transformação digital e marketing? Baixe nosso e-book gratuito e veja como esse cenário afeta sua empresa.
